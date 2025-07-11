@@ -68,5 +68,6 @@ This project was used in a tiebreaker AI vs AI match during Xodia 24 (2024 editi
 ---
 ## 📢 Special Thanks
 
-- **Xodia Organizers & Judges** @Maheshwar098 – For providing a platform and base code to compete in RL-based AI events
+- [@Maheshwar098](https://github.com/Maheshwar098) – For guidance, feedback, or inspiration throughout the development process.
+
 ---
